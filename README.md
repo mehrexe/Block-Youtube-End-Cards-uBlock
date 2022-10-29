@@ -29,10 +29,6 @@ www.youtube.com##.ytp-ce-covering-image
 ! www.youtube.com##.ytp-ce-video-title
 ! www.youtube.com##.ytp-ce-video-duration
 ```
-
-## Before & After
-to be populated. 
-
 ## Some useful software to make Youtube more bearable
 [SponsorBlock for YouTube](https://sponsor.ajay.app/ "SponsorBlock for YouTube"): Open-source, crowdsourced extension and open API for skipping sponsor, intro/outro, and other undesirable segments in Youtube content. Also available for iOS/Android, Kodi, and Apple TV among others. 
 -> [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV "iSponsorBlockTV"): An incredible AppleTV SponsorBlock client that runs on LAN.
@@ -43,3 +39,8 @@ to be populated.
 
 
 **Skip Ads button automation**: This may be done through a browser extension, custom scripts, etc. BEAR IN MIND: if you do use a browser extension **do NOT** use the one by author "Shreya Dahal" (github/squgeim/yt-ad-autoskipper). The $7/yr paywall is malicious, as it **blocks truly instant ad skip for free users**. There is a noticable delay with the core function of this extension made by this greedy greaseball vs others.
+
+## Before & After
+![Before](screenshots/before.png)
+![After](screenshots/after.png)
+
