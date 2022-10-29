@@ -44,3 +44,4 @@ www.youtube.com##.ytp-ce-covering-image
 ![Before](screenshots/before.png)
 ![After](screenshots/after.png)
 
+Credit: [Fishtank](https://www.youtube.com/watch?v=SjlJ_kjcYN0 "Fishtank"), a great TF2tuber whose successful endscreen troll gave me this idea.
